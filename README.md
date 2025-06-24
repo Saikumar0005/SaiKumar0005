@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Tiruvidhi Sai Kumar</h1>
 <h3 align="center">I am CSE Specialization with Artificial Intelligence & Machine Learning from Vigna's Lara.</h3>
 
