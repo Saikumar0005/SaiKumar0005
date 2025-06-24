@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 📄 Hobbies [Solving Rubix cubes](Solving Rubix cubes)
+- 📄 Hobbies Solving Rubix cubes, Listening Music 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
