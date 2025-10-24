@@ -4,7 +4,20 @@
 
 <br clear="both">
 
-<p align="left">About Me -<br>I'm from Computer Science & Engineering(AIML)  from Vignan's Lara. I'm interested in Full Stack Development, Artificial Intelligence, Machine Learning and Automation.<br><br>Projects <br>   Voice Assistant - Voice-based automation tool that performs predefined tasks using speech recognition.<br>Multi Disease Prediction - ML-based system that predicts diseases from user-input symptoms using classification models.<br>Portfolio - Personal website showcasing my skills, projects, and contact info.<br>ShopEase -  Full-featured eCommerce platform built with ReactJS and Sanity.<br>Brain Tumor Detection(Ongoing)-<br>- 🌱 I’m currently learning MERN Stack Development, Automations, Figma, Integration of the AIML to the real world challenges<br>- 👩🏽‍💻 Python, Frontend Development, Problem Solving</p>
+<p align="left">About Me -<br>I'm from Computer Science & Engineering(AIML)  from Vignan's Lara. I'm interested in Full Stack Development, Artificial Intelligence, Machine Learning and Automation.<br><br>
+<ul>
+  <li><strong>Projects:</strong></li>
+  <ul>
+    <li>Voice Assistant – Voice-based automation tool that performs predefined tasks using speech recognition.</li>
+    <li>Multi Disease Prediction – ML-based system that predicts diseases from user-input symptoms using classification models.</li>
+    <li>Portfolio – Personal website showcasing my skills, projects, and contact info.</li>
+    <li>ShopEase – Full-featured eCommerce platform built with ReactJS and Sanity.</li>
+    <li>Brain Tumor Detection (Ongoing) – ML project for detecting brain tumors from MRI scans.</li>
+  </ul>
+
+  <li>🌱 I’m currently learning MERN Stack Development, Automations, Figma, and integration of AIML into real-world challenges.</li>
+  <li>👩🏽‍💻 Skilled in Python, Frontend Development, and Problem Solving.</li>
+</ul>
 
 ###
 
