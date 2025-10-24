@@ -1,23 +1,11 @@
 <h2 align="center">Hi 👋! My name is Tiruvidhi Sai Kumar</h2>
 
 ###
-<hr>
+
 <br clear="both">
 
-<p align="left">🚀 About Me -<br>I'm from Computer Science & Engineering(AIML)  from Vignan's Lara. I'm interested in Full Stack Development, Artificial Intelligence, Machine Learning and Automation.<br><br>
-<ul>
-  <li><strong>Projects:</strong></li>
-  <ul>
-    <li>Voice Assistant – Voice-based automation tool that performs predefined tasks using speech recognition.</li>
-    <li>Multi Disease Prediction – ML-based system that predicts diseases from user-input symptoms using classification models.</li>
-    <li>Portfolio – Personal website showcasing my skills, projects, and contact info.</li>
-    <li>ShopEase – Full-featured eCommerce platform built with ReactJS and Sanity.</li>
-    <li>Brain Tumor Detection (Ongoing) – ML project for detecting brain tumors from MRI scans.</li>
-  </ul>
+<p align="left">About Me -<br>I'm from Computer Science & Engineering(AIML)  from Vignan's Lara. I'm interested in Full Stack Development, Artificial Intelligence, Machine Learning and Automation.<br><br>Projects <br>   Voice Assistant - Voice-based automation tool that performs predefined tasks using speech recognition.<br>Multi Disease Prediction - ML-based system that predicts diseases from user-input symptoms using classification models.<br>Portfolio - Personal website showcasing my skills, projects, and contact info.<br>ShopEase -  Full-featured eCommerce platform built with ReactJS and Sanity.<br>Brain Tumor Detection(Ongoing)-<br>- 🌱 I’m currently learning MERN Stack Development, Automations, Figma, Integration of the AIML to the real world challenges<br>- 👩🏽‍💻 Python, Frontend Development, Problem Solving</p>
 
-  <li>🌱 I’m currently learning MERN Stack Development, Automations, Figma, and integration of AIML into real-world challenges.</li>
-  <li>👩🏽‍💻 Skilled in Python, Frontend Development, and Problem Solving.</li>
-</ul>
 ###
 
 <br clear="both">
@@ -30,6 +18,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SaiKumar0005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaiKumar0005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
